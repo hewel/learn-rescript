@@ -1,0 +1,23 @@
+lockfileVersion: 5.3
+
+specifiers:
+  reanalyze: ^2.19.0
+  rescript: ^9.1.4
+
+devDependencies:
+  reanalyze: 2.19.0
+  rescript: 9.1.4
+
+packages:
+
+  /reanalyze/2.19.0:
+    resolution: {integrity: sha512-ycVr19BH6b2J70BmG6nUIzrFWiBNLUCmip6D2NEPLpnJimF6wagE+BIksI6vcTCovqWjgNMKhFCbZKwm+5/8VQ==}
+    hasBin: true
+    requiresBuild: true
+    dev: true
+
+  /rescript/9.1.4:
+    resolution: {integrity: sha512-aXANK4IqecJzdnDpJUsU6pxMViCR5ogAxzuqS0mOr8TloMnzAjJFu63fjD6LCkWrKAhlMkFFzQvVQYaAaVkFXw==}
+    hasBin: true
+    requiresBuild: true
+    dev: true
