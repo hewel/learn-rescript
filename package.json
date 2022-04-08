@@ -14,5 +14,10 @@
   "devDependencies": {
     "reanalyze": "^2.19.0",
     "rescript": "^9.1.4"
+  },
+  "dependencies": {
+    "@rescript/react": "^0.10.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   }
 }
