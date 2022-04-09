@@ -1,7 +1,7 @@
 let getItem = items =>
-  if false {
+  if Array.length(items) > 0 {
     // return the found item here
-    1
+    items[1]
   } else {
     raise(Not_found)
   }
