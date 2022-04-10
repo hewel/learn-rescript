@@ -2,6 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@rescript/react': ^0.10.3
+  '@ryyppy/rescript-promise': ^2.1.0
   react: ^18.0.0
   react-dom: ^18.0.0
   reanalyze: ^2.19.0
@@ -9,6 +10,7 @@ specifiers:
 
 dependencies:
   '@rescript/react': 0.10.3_react-dom@18.0.0+react@18.0.0
+  '@ryyppy/rescript-promise': 2.1.0
   react: 18.0.0
   react-dom: 18.0.0_react@18.0.0
 
@@ -26,6 +28,10 @@ packages:
     dependencies:
       react: 18.0.0
       react-dom: 18.0.0_react@18.0.0
+    dev: false
+
+  /@ryyppy/rescript-promise/2.1.0:
+    resolution: {integrity: sha512-+dW6msBrj2Lr2hbEMX+HoWCvN89qVjl94RwbYWJgHQuj8jm/izdPC0YzxgpGoEFdeAEW2sOozoLcYHxT6o5WXQ==}
     dev: false
 
   /js-tokens/4.0.0:
