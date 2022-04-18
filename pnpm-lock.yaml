@@ -7,12 +7,14 @@ specifiers:
   react-dom: ^18.0.0
   reanalyze: ^2.19.0
   rescript: ^9.1.4
+  rescript-webapi: ^0.6.1
 
 dependencies:
   '@rescript/react': 0.10.3_react-dom@18.0.0+react@18.0.0
   '@ryyppy/rescript-promise': 2.1.0
   react: 18.0.0
   react-dom: 18.0.0_react@18.0.0
+  rescript-webapi: 0.6.1
 
 devDependencies:
   reanalyze: 2.19.0
@@ -67,6 +69,10 @@ packages:
     hasBin: true
     requiresBuild: true
     dev: true
+
+  /rescript-webapi/0.6.1:
+    resolution: {integrity: sha512-I/eeHOcsUfWbCf6u15zd+rKxMz9awSjjdRa8eFtl2X+HjDNs0mJxoC4uFFK9dIazYcmY2VpuK5TTpOPXvdkhDw==}
+    dev: false
 
   /rescript/9.1.4:
     resolution: {integrity: sha512-aXANK4IqecJzdnDpJUsU6pxMViCR5ogAxzuqS0mOr8TloMnzAjJFu63fjD6LCkWrKAhlMkFFzQvVQYaAaVkFXw==}
